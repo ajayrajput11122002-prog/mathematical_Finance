@@ -1,4 +1,4 @@
-##Monte Carlo Expectation of a Random Variable
+## Monte Carlo Expectation of a Random Variable
 
 ### Mathematical Setup
 Let X ~ N(0,1)
